@@ -27,4 +27,22 @@
 }
 .footer {
   margin-inline: 10%;
+  margin-top: 100px;
+}
+
+.h1 {
+  font-size: 4rem;
+}
+
+#btn-students {
+  height: 40px;
+  width: 100%;
+}
+
+#btn-maturity {
+  background-color: rgb(55, 55, 55);
+}
+.container-checkbox {
+  width: 30px;
+  height: 30px;
 }
