@@ -1,0 +1,30 @@
+.logo {
+  width: 100px;
+}
+.avatar {
+  width: 50px;
+}
+.campana {
+  width: 30px;
+}
+.search {
+  width: 30px;
+}
+.hover-nav:hover {
+  color: white;
+}
+.dropdown-menu {
+  list-style: none;
+}
+.drop-logo {
+  width: 10px;
+}
+/* .footer {
+  margin-left: 20%;
+} */
+.btn-footer {
+  width: 150px;
+}
+.footer {
+  margin-inline: 10%;
+}
